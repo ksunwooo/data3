@@ -1,0 +1,14 @@
+Simple Python ignore file
+/.venv
+/venv
+.DS_Store
+Thumbs.db
+.pyc
+.coverage
+.coverage.
+db.sqlite3
+
+Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/.cfg.yml
+!.elasticbeanstalk/.global.yml
